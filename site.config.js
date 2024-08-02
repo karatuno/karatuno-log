@@ -8,7 +8,7 @@ const CONFIG = {
     email: "findkaratuno@gmail.com",
     linkedin: "karatuno",
     github: "karatuno",
-    instagram: "",
+    instagram: "hh",
   },
   projects: [
     {
